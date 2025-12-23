@@ -2,6 +2,10 @@
 
 A small React greeting / celebration app built with Create React App. It contains a hero section, a cake section, love cards, and a memory lane to display messages and memories.
 
+## Deployed link 
+deployed on netlify:
+[Live Demo](https://birthday-wish-by-mayank.netlify.app/)
+
 ## Features
 
 - Hero banner with greeting
