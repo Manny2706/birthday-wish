@@ -1,4 +1,4 @@
-# Namaste World
+# Birthday wishes
 
 A small React greeting / celebration app built with Create React App. It contains a hero section, a cake section, love cards, and a memory lane to display messages and memories.
 
